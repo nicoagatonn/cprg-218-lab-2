@@ -103,6 +103,7 @@ Ingredients:
 - 2 tsp vanilla extract
 - 3 cups semisweet chocolate chips
 
+
 Instructions:
 1. Preheat oven to 375°F (190°C).
 2. Combine flour, baking soda, and salt in a bowl.
@@ -113,3 +114,12 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Leche Flan
+
+Ingredients:
+- 6 egg yolks
+- 1 can of condensed milk
+- 1 can of evaporated milk
+- 1 cup of sugar
+- 1 tsp of vanilla
