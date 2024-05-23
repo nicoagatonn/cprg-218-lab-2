@@ -19,7 +19,7 @@ Ingredients:
 - 1 cup mayonnaise
 - 1 cup grated Parmesan cheese
 - 1/2 cup shredded mozzarella cheese
-- 2 cloves garlic, minced
+- 4 cloves garlic, minced
 
 Instructions:
 1. Preheat oven to 350°F.
